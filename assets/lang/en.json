@@ -1,0 +1,11 @@
+{
+  "Arabic" : "Arabic",
+  "WelcomeBack" : "Welcome back",
+  "WelcomeBackDescription" : "Sign into your account to get started",
+  "GetStarted" : "Get Started",
+  "AlreadyHaveAccount" : "Already have an account",
+  "SignIn" : "Sign In",
+  "EnterLoanID" : "Enter Loan ID",
+  "ScanCode" : "Scan the Code",
+  "startAppDescription" : "Get started by entering your loan ID or\nScanning QR Code"
+}
